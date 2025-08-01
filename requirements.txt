@@ -1,0 +1,5 @@
+cat <<'EOF' > requirements.txt
+flask
+# add other real dependencies here, e.g., requests, transformers, etc.
+EOF
+
