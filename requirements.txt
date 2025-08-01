@@ -1,5 +1,6 @@
 cat <<'EOF' > requirements.txt
 flask
-# add other real dependencies here, e.g., requests, transformers, etc.
+# later, add your real dependencies like PyMuPDF, sentence-transformers etc.
 EOF
+
 
